@@ -1,11 +1,11 @@
 # NSDC-Credit-Score-Classification
+### This project was done in collaboration with five team members, led by Junze He, under the National Student Data Corps at UCLA.
+### The aim of this project was to predict whether an account's credit score is Poor, Standard, and Good using ML techniques in Python.
+### Dataset: https://www.kaggle.com/datasets/parisrohan/credit-score-classification
 
-### dataset: https://www.kaggle.com/datasets/parisrohan/credit-score-classification
+### Conducted EDA via Seaborn, Matplotlib, Pandas, and statsmodels.Logit
+### Meticulously cleaned and preprocessed a data set of 50,000 rows, including feature selection.
+### Utilized gradient boosting via XGBoost and random forests via scikit-learn, achieving ~89% accuracy with both models
+### Evaluated models with confusion matrices, prediction accuracy, and results visualizations
 
-### Lead 5 members to complete a classfification project that predicts whether an account's credit score is Poor, Standard, and Good in Python
-### Understood data by Seaborn, Matplotlib, Pandas, and statsmodels.Logit
-### Utilized Graident boosting and random forest algorithm from scikit-learn and achieved around 89% accuracy in both models
-### Evaluated models by confusion matrix and overall accuracy
-### Found that the outstanding debet is the most significant feature to the outcome by feature selection techniques. 
-
-Authors: Junze He, Percival Liu, Neha Humbe Evan Garcia, Maxwell Chu, Marie Yang 
+Authors: Maxwell Chu, Junze He, Percival Liu, Neha Humbe, Evan Garcia, Marie Yang 
