@@ -1,6 +1,6 @@
 # NSDC-Credit-Score-Classification
 ### This project was done in collaboration with five team members, led by [Junze He](https://github.com/JunJul), under the National Student Data Corps at UCLA.
-### The aim of this project was to predict whether an account's credit score is Poor, Standard, and Good using ML techniques in Python.
+### The aim of this project was to predict whether an account's credit score is Poor, Standard, or Good using ML techniques in Python.
 ### Dataset: https://www.kaggle.com/datasets/parisrohan/credit-score-classification
 
 ### Conducted EDA via Seaborn, Matplotlib, Pandas, and statsmodels.Logit
